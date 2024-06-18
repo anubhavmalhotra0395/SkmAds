@@ -11,7 +11,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "homepage": "https://anubhavmalhotratkt009.github.io/SkmAds/",
+  "homepage": "https://anubhavmalhotra0395.github.io/SkmAds/",
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
     "@fortawesome/fontawesome-free": "^6.5.1",
